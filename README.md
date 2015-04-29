@@ -1,4 +1,4 @@
-fb-messages
+fb-friends
 =========
 
 Facebook friends shown sorted by mutual friend count along with some other statistics.
